@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.psg.gradleProject.GradleProjectApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-27T05:22:26" hostname="C02G943JMD6R" time="0.733">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.psg.gradleProject.GradleProjectApplicationTests" time="0.733"/>
+  <system-out><![CDATA[10:52:26.020 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.psg.gradleProject.GradleProjectApplicationTests]: GradleProjectApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+10:52:26.091 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.psg.gradleProject.GradleProjectApplication for test class com.psg.gradleProject.GradleProjectApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.4)
+
+2024-03-27T10:52:26.383+05:30  INFO 8530 --- [gradleProject] [    Test worker] c.p.g.GradleProjectApplicationTests      : Starting GradleProjectApplicationTests using Java 17.0.7 with PID 8530 (started by I553136 in /Users/I553136/workspace/PSG/gradleProject)
+2024-03-27T10:52:26.384+05:30  INFO 8530 --- [gradleProject] [    Test worker] c.p.g.GradleProjectApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2024-03-27T10:52:26.768+05:30  INFO 8530 --- [gradleProject] [    Test worker] c.p.g.GradleProjectApplicationTests      : Started GradleProjectApplicationTests in 0.55 seconds (process running for 1.546)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
